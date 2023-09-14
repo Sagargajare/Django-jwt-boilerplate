@@ -1,6 +1,7 @@
 # Django REST framework boilerplate
 
-### Including:
+### Including
+
 - djoser
 - Simple JWT (Support for JSON Web Tokens Authentication)
 - django-environ (Separating environment settings from the code)
@@ -8,4 +9,12 @@
 - Custom user model
 - Email instead of username (username does not exist)
 
-After `python manage.py runserver` go to http://127.0.0.1:8000/swagger/ to check available endpoints.
+## TO DO
+
+- [x] Update Django to latest Version
+- [x] Update All the dependencies to latest version
+- [x] Rename Apps
+- [x] Create README with all Documentation
+- [x] Use Poetry for virtual environment
+
+After `python manage.py runserver` go to <http://127.0.0.1:8000/swagger/> to check available endpoints.

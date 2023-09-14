@@ -15,6 +15,9 @@
 - [x] Update All the dependencies to latest version
 - [x] Rename Apps
 - [x] Create README with all Documentation
+
+## Completed
+
 - [x] Use Poetry for virtual environment
 
 After `python manage.py runserver` go to <http://127.0.0.1:8000/swagger/> to check available endpoints.
